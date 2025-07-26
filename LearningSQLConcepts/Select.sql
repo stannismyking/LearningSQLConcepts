@@ -1,3 +1,3 @@
 USE TestDB;
 
-Select * from Employees
+Select * from Employees;
